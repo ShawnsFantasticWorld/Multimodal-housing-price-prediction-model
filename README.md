@@ -2,7 +2,6 @@
 
 本人毕业设计项目源码
 
-[TOC]
 
 ## 爬虫部分
 
@@ -23,7 +22,4 @@ scoreStreetView文件夹
 house_price_predict文件夹
 
 
-
 具体实现及方法步骤详解
-
-未完待续……
