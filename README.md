@@ -3,7 +3,7 @@
 本人毕业设计项目源码
 
 
-## 爬虫部分
+## Obtain data part
 
 ### 售房信息爬虫
 
@@ -15,11 +15,10 @@ streetViewPicFinal文件夹
 
 ## 基于图像分割的街景评分部分
 
-scoreStreetView文件夹
+scoreStreetView
 
-## 房价预测部份
+## Housing price predict part
 
-house_price_predict文件夹
-
+house_price_predict
 
 具体实现及方法步骤详解
