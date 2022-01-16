@@ -1,24 +1,22 @@
 # Research on information acquisition and analysis method of house sale based on web crawler
 
-本人毕业设计项目源码
+BJUT Bachelor graduation project
 
+## Obtain data
 
-## Obtain data part
+### House price and related information crawler
 
-### 售房信息爬虫
+Final_Data_Crawler folder
 
-Final_Data_Crawler文件夹
+### Street View image crawl
 
-### 街景图像爬取部分
+streetViewPicFinal folder
 
-streetViewPicFinal文件夹
+## Street View rating section based on image segmentation
 
-## 基于图像分割的街景评分部分
-
-scoreStreetView
+scoreStreetView folder
 
 ## Housing price predict part
 
-house_price_predict
+house_price_predict folder
 
-具体实现及方法步骤详解
