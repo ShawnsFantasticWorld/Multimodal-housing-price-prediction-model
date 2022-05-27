@@ -1,6 +1,6 @@
 # Research on information acquisition and analysis method of house sale based on web crawler
 
-BJUT Bachelor graduation project
+Bachelor graduation project
 
 ## Obtain data
 
